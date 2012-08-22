@@ -1,0 +1,4 @@
+development:
+  db:
+    uri: "mongodb://localhost/bangalter"
+
