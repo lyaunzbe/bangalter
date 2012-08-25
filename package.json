@@ -5,6 +5,7 @@
   "dependencies": {
     "express": "~2.5.11",
     "hogan.js": "~2.0.0",
-    "mongoose": "~2.7.2"
+    "mongoose": "~2.7.2",
+    "yaml-config": "~0.1.0"
   }
 }
